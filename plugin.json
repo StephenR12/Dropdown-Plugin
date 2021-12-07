@@ -1,0 +1,13 @@
+{
+  "name": "WiserFormulaWidget",
+  "source": [
+    "widget.6.js",
+    "wiser-formula-widget/directive.6.js",
+    "style-editor/controller.6.js"
+  ],
+  "style": [
+    "wiser-formula-widget/style.scss"
+  ],
+  "pluginInfraVersion": 2,
+  "version": "0.2.1"
+}
